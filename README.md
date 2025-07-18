@@ -89,27 +89,3 @@
 
 ---
 
-### 🌟 Featured Projects
-
-- 🎮 [Bubble Game](https://github.com/vishal-more52/Bubble-game)  
-  A simple fun bubble shooting game using HTML, CSS, and JavaScript.
-
-- 🛍️ [E-Commerce Website](https://github.com/vishal-more52/e-comerce)  
-  A basic static e-commerce website using HTML, CSS, and JS.
-
-- ☕ [Java Projects Collection](https://github.com/vishal-more52/Java-Projects)  
-  A collection of Java projects demonstrating OOPs, collections, JDBC and more.
-
-- 🌐 [Web Mini Projects](https://github.com/vishal-more52/web-mini-projects)  
-  A set of mini-projects in HTML, CSS, and JavaScript.
-
-- ⚛️ [React Projects](https://github.com/vishal-more52/React_Projects)  
-  A collection of beginner to intermediate React.js projects.
-
-- 🧮 [Calculator](https://github.com/vishal-more52/Calculator)  
-  A simple calculator built using HTML, CSS, and JavaScript.
-
-- 🍽️ [Restaurant Website](https://github.com/vishal-more52/RresterorentWebsite)  
-  A stylish restaurant website made with modern web technologies.
-
----
